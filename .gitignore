@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build
+dist/
+build/
+coverage/
+
+# Archives & binaries
+*.zip
+*.tar.gz
+
+# Environment variables
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+
+# Redundant legacy folders
+entrega_hashgraph/
+
+# System & logs
+.DS_Store
+Thumbs.db
+*.log

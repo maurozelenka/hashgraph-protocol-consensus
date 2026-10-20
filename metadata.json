@@ -1,0 +1,6 @@
+{
+  "name": "Hashgraph Consensus Visualizer",
+  "description": "Simulador interactivo del protocolo de consenso Hashgraph: Gossip about Gossip, DAG de eventos y Votación Virtual en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
