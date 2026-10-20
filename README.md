@@ -2,6 +2,8 @@
 
 An asynchronous Byzantine Fault Tolerant (aBFT) distributed consensus engine and DAG state visualizer implementing Swirlds Hashgraph protocol primitives: Gossip-about-Gossip, Strong Seeing, and Virtual Voting.
 
+![Hashgraph DAG Overview](docs/dag-overview.png)
+
 ---
 
 ## Technical Specifications
