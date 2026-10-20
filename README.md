@@ -4,6 +4,8 @@ An asynchronous Byzantine Fault Tolerant (aBFT) distributed consensus engine and
 
 ![Hashgraph DAG Overview](docs/dag-overview.png)
 
+![Hashgraph Consensus Execution](docs/demo.gif)
+
 ---
 
 ## Technical Specifications
